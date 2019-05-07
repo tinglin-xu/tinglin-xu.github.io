@@ -27,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="6.814815">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54434997">
-              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.34021872">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -120,7 +120,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -187,7 +187,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/img/about-BY-gentle.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -195,15 +200,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/about-BY-gentle.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.814815">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54434997">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.34021872">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding />
         </state>
       </provider>
