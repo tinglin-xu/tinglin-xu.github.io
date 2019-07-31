@@ -63,11 +63,11 @@ BusinessWorker类其实也是基于基础的Worker开发的。BusinessWorker是�
 ### Gateway::leaveGroup
 >void Gateway::leaveGroup(string $client_id, mixed $group);
 
-###Gateway::sendToGroup
+### Gateway::sendToGroup
 >void Gateway::sendToGroup(mixed $group, string $message [, array $exclude_client_id = null [, bool $raw = false]]);
 
-##启动与停止
-###启动
+## 启动与停止
+### 启动
 以debug（调试）方式启动
 
 `php start.php start`
@@ -76,14 +76,14 @@ BusinessWorker类其实也是基于基础的Worker开发的。BusinessWorker是�
 
 `php start.php start -d`
 
-###停止
+### 停止
 `php start.php stop`
 
-###重启
+### 重启
 `php start.php restart`
 
-###平滑重启
+### 平滑重启
 `php start.php reload`
 
-###查看状态
+### 查看状态
 `php start.php status`
